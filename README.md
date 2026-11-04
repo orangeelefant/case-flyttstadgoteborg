@@ -1,5 +1,7 @@
 # Case study — Flyttstäd Göteborg
 
+Samma case finns i samlingen [case-studies/flyttstadgoteborg](https://github.com/orangeelefant/case-studies/tree/main/flyttstadgoteborg).
+
 How [Flyttstäd Göteborg](https://flyttstadgoteborg.se) works online — built and maintained by [Webraketen](https://webraketen.se).
 
 ## Om Flyttstäd Göteborg
@@ -9,10 +11,13 @@ Flyttstäd Göteborg erbjuder flyttstädning till fast pris från 1 995 kr efter
 → [flyttstadgoteborg.se](https://flyttstadgoteborg.se)
 
 ## Stack
-- Astro / Next.js
-- Netlify / Cloudflare
+- Astro 7
+- Netlify, med Cloudflare framför
 - Resend · PostHog
 
 ## Relaterat
-- **Byrå:** [webraketen.se](https://webraketen.se) · **Portfölj:** [github.com/Webraketen/portfolio](https://github.com/Webraketen/portfolio)
+- **Byrå:** [webraketen.se](https://webraketen.se) · **Portfölj:** [github.com/orangeelefant/portfolio](https://github.com/orangeelefant/portfolio)
 - **Systersajter:** [Städly](https://stadly.nu) · [Kraft & Rent](https://kraftrent.se) · [Theresas Städ](https://theresasstad.se) · [ES Sten och Anläggning](https://esstenochanlaggning.se) · [MS Entreprenad](https://msentreprenad.se) · [Tittis Städ](https://tittisstad.se)
+
+---
+**Webraketen på GitHub:** [Portfolio](https://github.com/orangeelefant/portfolio) · [Kundcase](https://github.com/orangeelefant/case-studies) · [Blue Pencil](https://github.com/orangeelefant/bluepencil) · [webraketen.se](https://webraketen.se)
